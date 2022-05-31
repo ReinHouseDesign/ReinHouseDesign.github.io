@@ -1,0 +1,118 @@
+.ext-wrap {
+    padding-top: 9rem;
+    margin: auto;
+}
+
+.ext-head {
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+}
+
+#ext-hr {
+    color: black;
+    padding-bottom: 1rem;
+    width: 50%;
+    margin: auto;
+}
+
+.paving-img {
+    width: 100%;
+}
+
+.header-text {
+    padding: 2rem 1rem 1rem;
+    font-family: "Rubik", sans-serif;
+}
+
+.img-exp {
+    text-align: left;
+    font-family: "Rubik", sans-serif;
+    padding: 1rem 1rem 1rem;
+}
+
+.paving-wrap {
+    justify-content: center;
+}
+.image {
+    width: 100%;
+}
+
+.turf-title {
+    padding-top: 2rem;
+}
+.ext-rem-head {
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+.roof-head {
+    padding-top: 5rem;
+}
+.card-group {
+    font-family: "Rubik", sans-serif;
+    justify-content: center;
+}
+#c-g {
+    border-radius: none;
+}
+.card {
+    border: none;
+    padding: .5rem .5rem .5rem;
+}
+
+.storm-restoration-cta {
+    width: 100%;
+    background-color: #393939; 
+    font-family: "Rubik", sans-serif;
+}
+.storm-restoration-cta > h2{
+    font-weight: bold;
+    padding: 2rem 1rem 2rem;
+    color: white;
+}
+#ins-btn {
+    margin-bottom: 1.5rem;
+}
+
+.sty-bar {
+    height: 40px;
+    background-color: #2a2a2a;
+}
+
+.card {
+    border-bottom: 3px solid #0C3C5B;
+    border-top: 2px solid #0C3C5B;
+}
+
+@media (min-width: 600px) {
+    .card {
+        border: none;
+    }
+    .image {
+        width: 90%;
+        height: 90%;
+    }
+    .turf {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .turf-title {
+        font-family: "Rubik", sans-serif;
+    }
+    .paving {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .paving-img {
+        width: 90%;
+        height: 90%;
+    }
+    .ols {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .ext-wrap {
+        width: 60%;
+        margin: auto;
+    }
+}
