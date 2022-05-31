@@ -1,5 +1,8 @@
 import {React, useState} from "react";
 import styles from "./Header.css"
+import { Navbar, Container, Nav  } from "reactstrap";
+import { Link } from "react-router-dom";
+import LinkContainer from "react-router-bootstrap/LinkContainer";
 const Header = () => {
     return (
         <div id="navcon" class="header-container">
@@ -15,19 +18,24 @@ const Header = () => {
                       <a class="nav-link" id="nav-link" active aria-current="page" href="/">HOME</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" id="nav-link" href="/exterior-remodeling-roofing-contractor-denver-colorado">EXTERIORS</a>
+                      <a class="nav-link" id="nav-link" href="#/exterior-remodeling-roofing-contractor-denver-colorado">EXTERIORS</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" id="nav-link" href="/colorado-insurance-contractor-services">INSURANCE</a>
+                      
+                      <a class="nav-link" id="nav-link" href="#/colorado-insurance-contractor-services">INSURANCE</a>
+                      
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" id="nav-link" href="/client-work">CLIENT WORK</a>
+                      <a class="nav-link" id="nav-link" href="#/client-work">CLIENT WORK</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" id="nav-link" href="/about-our-roofing-services">ABOUT US</a>
+                      <a class="nav-link" id="nav-link" href="#/about-our-roofing-services">ABOUT US</a>
+                      
                     </li>
                     <button type="button" class="btn" id="call-button">
-                    <a id="call-link" href="/contact-us">CONTACT US</a>
+                      
+                    <a id="call-link" href="#/contact-us">CONTACT US</a>
+                      
                   </button>
                   </ul>
                 </div>

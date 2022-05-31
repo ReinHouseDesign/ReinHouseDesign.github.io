@@ -11,12 +11,12 @@ import Insurance from "./Insurance"
 const Main = () => (
 <main>
     <Routes>
-        <Route exact path="/" element={<Home />} />
         <Route path="/exterior-remodeling-roofing-contractor-denver-colorado" element={<Exteriors/>} />
         <Route path="/storm-insurance-claims-denver" element={<Insurance/>} />
         <Route path="/client-work" element={Work} />
         <Route path="/about-our-roofing-services" element={<AboutUs/>} />
         <Route path="/contact-us" element={<ContactUs/>} />
+        <Route exact path="/" element={<Home />} />
     </Routes>
 </main>
 );

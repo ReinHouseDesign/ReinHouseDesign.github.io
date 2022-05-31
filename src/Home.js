@@ -24,7 +24,7 @@ const Home = () => {
             <p class="intro">We pride ourselves in listening to our customers and making sure we are hearing your needs, wants, and preferences in your design. From there we will create a plan that fits that design into the landscaping and budget for your project. </p>
             <p class="intro last-intro">ReinHouse Designs is dedicated to creating you the outdoor space you are dreaming of.</p>
             <div class="button-wrapper">
-                <button id="btn" class="home-btn"><a href="/contact-us">CONTACT US ONLINE</a></button>
+                <button id="btn" class="home-btn"><a href="#/contact-us">CONTACT US ONLINE</a></button>
                 <button id="btn" class="home-btn"><a href="tel:7208798827">CALL: 720-879-8827</a></button>
             </div>
         </div>

@@ -49,9 +49,9 @@ const Exteriors = () => (
     </div>
     <div class="r-wrap">
         <div class="roof-banner">
-            <h3>Roofing</h3>
+            <h2 class="roof-header">Roofing</h2>
         </div>
-        <div class="roof-wrap">
+        <div class="roof-wrapper">
             <img class="roof-img" src="/roofing.jpg" />
             <div class="roof-div">
                 <h3 class="ext-rem-head roof-head">Commercial and Residential Roofing</h3>
@@ -62,7 +62,7 @@ const Exteriors = () => (
     
     <div class="storm-restoration-cta">
             <h2>Roof Insurance Claims</h2>
-            <a id="ins-btn" class="home-btn btn" href="/storm-insurance-claims-denver">INSURANCE CLAIMS</a>
+            <a id="ins-btn" class="home-btn btn" href="#/storm-insurance-claims-denver">INSURANCE CLAIMS</a>
             <div class="sty-bar"></div>
         </div>
     <CallToAction/>
