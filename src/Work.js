@@ -8,13 +8,13 @@ const Work = () => (
         <div class="row">
           <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
             <img
-              src="/client-gallery/gazebo.jpg"
+              src="/client-gallery/gazebo.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Boat on Calm Water"
             />
 
             <img
-              src="/client-gallery/paving-vert.jpg"
+              src="/client-gallery/paving-vert.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Wintry Mountain Landscape"
             />
@@ -22,13 +22,13 @@ const Work = () => (
 
           <div class="col-lg-4 mb-4 mb-lg-0">
             <img
-              src="/client-gallery/vert-pic.jpg"
+              src="/client-gallery/vert-pic.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Mountains in the Clouds"
             />
 
             <img
-              src="/client-gallery/horiz-paving.jpg"
+              src="/client-gallery/horiz-paving.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Boat on Calm Water"
             />
@@ -36,13 +36,13 @@ const Work = () => (
 
           <div class="col-lg-4 mb-4 mb-lg-0">
             <img
-              src="/client-gallery/custom-paving.jpg"
+              src="/client-gallery/custom-paving.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Waves at Sea"
             />
 
             <img
-              src="/client-gallery/vert-paving.jpg"
+              src="/client-gallery/vert-paving.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Yosemite National Park"
             />
@@ -53,13 +53,13 @@ const Work = () => (
         <div class="row">
           <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
             <img
-              src="/client-gallery/horiz-construction.jpg"
+              src="/client-gallery/horiz-construction.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Boat on Calm Water"
             />
 
             <img
-              src="/client-gallery/vert-walkway.jpg"
+              src="/client-gallery/vert-walkway.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Wintry Mountain Landscape"
             />
@@ -67,13 +67,13 @@ const Work = () => (
 
           <div class="col-lg-4 mb-4 mb-lg-0">
             <img
-              src="/client-gallery/vert-stairs.jpg"
+              src="/client-gallery/vert-stairs.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Mountains in the Clouds"
             />
 
             <img
-              src="/client-gallery/horiz-backyard.jpg"
+              src="/client-gallery/horiz-backyard.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Boat on Calm Water"
             />
@@ -81,13 +81,13 @@ const Work = () => (
 
           <div class="col-lg-4 mb-4 mb-lg-0">
             <img
-              src="/client-gallery/horiz-fireplace.jpg"
+              src="/client-gallery/horiz-fireplace.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Waves at Sea"
             />
 
             <img
-              src="/client-gallery/vert-brick.jpg"
+              src="/client-gallery/vert-brick.webp"
               class="w-100 shadow-1-strong rounded mb-4"
               alt="Yosemite National Park"
             />
