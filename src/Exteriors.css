@@ -46,7 +46,7 @@
     padding-bottom: 1rem;
 }
 .roof-head {
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 .card-group {
     font-family: "Rubik", sans-serif;
@@ -83,15 +83,22 @@
     background-color: #2a2a2a;
 }
 
+.ext-lit {
+    width: 90%;
+}
+
+.p-lit {
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 1.5rem;
+}
+
 .roof-header {
     font-family: "Rubik", sans-serif;
     font-weight: bold;
 }
 
-.card {
-    border-bottom: 3px solid #0C3C5B;
-    border-top: 2px solid #0C3C5B;
-}
 .roof-wrapper {
     padding-top: 8rem;
     grid-template-columns: none;
@@ -103,6 +110,9 @@
 }
 
 @media (min-width: 600px) {
+    .p-lit {
+        width: 100%;
+    }
     .roof-wrapper {
     display: grid;
     grid-template-columns: 50% 50%;

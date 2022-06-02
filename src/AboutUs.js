@@ -30,7 +30,7 @@ const AboutUs = () => (
             <div class="oc-sec">
                 <h1>OWEN'S CORNING PLATINUM PREFERRED CONTRACTOR</h1>
                 <p class="cert-lit-exp">For years, those in the Denver area have turned to ReinHouse Design for all of their hardscaping and exterior remodeling needs.</p>
-                <h3 id="ins-text"><a id="free-in" href="/contact-us">Get FREE inspection today!</a></h3>
+                <h3 id="ins-text"><a id="free-in" href="#/contact-us">Get FREE inspection today!</a></h3>
             </div>
         </div>
     </div>

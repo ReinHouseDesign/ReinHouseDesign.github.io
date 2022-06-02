@@ -11,18 +11,14 @@ const Home = () => {
   </div>
 <div class="content-home">
   <div>
-    <h3 class="content-header">RHD IS THE FIRST CHOICE FOR DENVER RESIDENTS</h3>
+    <h3 class="content-header">RHD IS THE FIRST CHOICE FOR TWIN CITIES RESIDENTS</h3>
     <p class="content-exp">From roofing, siding, gutters to storm restoration, you can expect award-winning service and great craftsmanship. We care about our customers, and have been serving them for almost 25 years. Schedule online today and we'll help build your dream home.</p>
   </div>
 </div>
     <div class="background-ctas">
         <div id="cta" class="container-fluid">
-            <h1 class="what-we-do display-6">General Contracting, Exterior Remodeling & Storm Repair Insurance Claims in Denver, CO.</h1>
+            <h1 class="what-we-do display-6">General Contracting, Exterior Remodeling & Storm Insurance Claims in the Twin Cities.</h1>
             <hr class="break"></hr>
-            <p class="intro">Your yard should be your sanctuary - where you leave the problems of the world behind you. Let us help you create that oasis in your yard.</p>
-            <p class="intro">ReinHouse Design helps you find your design and build your custom yard. As a certified full-service hardscaping company, we can help you create a beautiful space that is custom to your needs. </p>
-            <p class="intro">We pride ourselves in listening to our customers and making sure we are hearing your needs, wants, and preferences in your design. From there we will create a plan that fits that design into the landscaping and budget for your project. </p>
-            <p class="intro last-intro">ReinHouse Designs is dedicated to creating you the outdoor space you are dreaming of.</p>
             <div class="button-wrapper">
                 <button id="btn" class="home-btn"><a href="#/contact-us">CONTACT US ONLINE</a></button>
                 <button id="btn" class="home-btn"><a href="tel:7208798827">CALL: 720-879-8827</a></button>
@@ -31,19 +27,19 @@ const Home = () => {
     </div>
     <div class="services-wrapper">
         <div class="services-grid">
-            <a href="/exterior-remodeling-roofing-contractor-denver-colorado" class="tile-link"><div class="rhd-tile" id="roofing-tile">
+            <a href="#/exterior-remodeling-roofing-contractor-denver-colorado" class="tile-link"><div class="rhd-tile" id="roofing-tile">
                 <h2 class="tile-title">Roofing</h2>
-                <p class="tile-exp">As a Owen's Corning Platinum Certified company, we're a step above most contracting companies. We take care of our customers first, that's why so many Colorado residents choose us! We'll get it done and fast.</p>
+                <p class="tile-exp">As an Owen's Corning Platinum Certified company, we're a step above most contracting companies. We take care of our customers first, that's why so many Colorado residents choose us! We'll get it done and fast.</p>
             </div></a>
-            <a href="/exterior-remodeling-roofing-contractor-denver-colorado" class="tile-link"><div class="rhd-tile" id="gutter-tile">
+            <a href="#/exterior-remodeling-roofing-contractor-denver-colorado" class="tile-link"><div class="rhd-tile" id="gutter-tile">
                 <h2 class="tile-title">Gutters</h2>
                 <p class="tile-exp">Replacement gutters and gutter guards protect your home against moisture and other forms of water damage such as rot, erosion and mold. We will ensure your rainwater management systems works well.</p>
             </div></a>
-            <a href="/exterior-remodeling-roofing-contractor-denver-colorado" class="tile-link"><div class="rhd-tile" id="siding-tile">
+            <a href="#/exterior-remodeling-roofing-contractor-denver-colorado" class="tile-link"><div class="rhd-tile" id="siding-tile">
                 <h2 class="tile-title">Siding</h2>
                 <p class="tile-exp">Our professional contractors can help protect your home from rain, wind and debris with our siding expertise. Our siding also provides insulation during the cold months of the year, which will save you money on your heat as well</p>
             </div></a>
-            <a href="/insurance-claims-storm-restoration-denver-colorado" class="tile-link"><div class="rhd-tile" id="insurance-tile">
+            <a href="#/insurance-claims-storm-restoration-denver-colorado" class="tile-link"><div class="rhd-tile" id="insurance-tile">
                 <h2 class="last-tile">Insurance</h2>
                 <p class="tile-exp">Whether for minor damage or major structural repairs, our professional roofers will respond quickly to restore your roof and protect your home against secondary damage following a storm. Schedule today!</p>
             </div></a>

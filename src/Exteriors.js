@@ -6,6 +6,12 @@ const Exteriors = () => (
 <div class="content">
     <div class="ext-wrap">
         <h3 class="ext-rem-head">Exterior Remodeling Services</h3>
+        <div ext-lit>
+            <p class="p-lit">Your yard should be your sanctuary - where you leave the problems of the world behind you. Let us help you create that oasis in your yard.</p>
+            <p class="p-lit">ReinHouse Design helps you find your design and build your custom yard. As a certified full-service hardscaping company, we can help you create a beautiful space that is custom to your needs. </p>
+            <p class="p-lit">We pride ourselves in listening to our customers and making sure we are hearing your needs, wants, and preferences in your design. From there we will create a plan that fits that design into the landscaping and budget for your project. </p>
+            <p class="p-lit last-intro">ReinHouse Designs is dedicated to creating you the outdoor space you are dreaming of.</p>
+        </div>
         <div id="c-g" class="card-group">
           <div class="card">
             <img class="card-img-top" src="/paving.jpg" alt="Card image cap"/>
