@@ -21,7 +21,7 @@ const Home = () => {
             <hr class="break"></hr>
             <div class="button-wrapper">
                 <button id="btn" class="home-btn"><a href="#/contact-us">CONTACT US ONLINE</a></button>
-                <button id="btn" class="home-btn"><a href="tel:7208798827">CALL: 720-879-8827</a></button>
+                <button id="btn" class="home-btn"><a href="tel:6513009394">CALL: 651-300-9394</a></button>
             </div>
         </div>
     </div>
