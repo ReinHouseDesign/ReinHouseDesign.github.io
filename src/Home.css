@@ -54,6 +54,10 @@ body {
     color: black;
 }
 
+.what-we-do2 {
+    font-weight: bold;
+}
+
 #carouselExampleIndicators{
     width: 100%;
     /* border-bottom: 3px solid #0C3C5B; */
@@ -274,7 +278,7 @@ body {
 .content-home {
     text-align: left;
     position: absolute;
-    bottom: 0;
+    top: 100px;
     background: rgba(0, 0, 0, 0.5);
     color: #f1f1f1;
     width: 100%;

@@ -11,10 +11,10 @@ const AboutUs = () => (
         <div class="bg-wrapper">
             <div class="dark-overlay">
             <div class="about-us">
-                <h5 class="above-title au-title">About Our Contracting Company</h5>
-                <h1 class="au-title">ReinHouse Design: Hardscaping and Exteriors</h1>
+                <h5 class="above-title au-title">About Our Company</h5>
+                <h1 class="au-title">Hardscaping, Exteriors and Outdoor Living</h1>
                 <hr id="hr"></hr>
-                <p class="au-title au-desc">The owner of ReinHouse Design, Nate Rein, comes from a long line of contractors. He grew up watching his dad and grandfather build custom homes and learned most of his skills from them. Nate found himself drawn to the outdoor side of things and has been building custom outdoor spaces for over 24 years. He has assembled an amazing team of contractors who have over 100 years of experience in building and design. This Colorado-based family  owned and operated company has the passion, the experience, and the expertise to provide you with an exceptional customer service experience. We will help create an outdoor space that will have all the neighbors saying "WOW!"</p>
+                <p class="au-title au-desc">The owner of ReinHouse Design, Nate Rein, comes from a long line of contractors. He grew up watching his dad and grandfather build custom homes and learned most of his skills from them. Nate found himself drawn to the outdoor side of things and has been building custom outdoor spaces for over 24 years. He has assembled an amazing team of contractors who have over 100 years of experience in building and design. This family owned and operated company has the passion, the experience, and the expertise to provide you with an exceptional customer service experience. We will help create an outdoor space that will have all the neighbors saying "WOW!"</p>
             </div>
         </div>
         </div>

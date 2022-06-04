@@ -21,16 +21,16 @@ const Header = () => {
                       <a class="nav-link" id="nav-link" href="#/exterior-remodeling-roofing-contractor-denver-colorado">EXTERIORS</a>
                     </li>
                     <li class="nav-item">
-                      
+                      <a class="nav-link" id="nav-link" href="#/outdoor-living-services">OUTDOOR LIVING</a>
+                    </li>
+                    <li class="nav-item">
                       <a class="nav-link" id="nav-link" href="#/colorado-insurance-contractor-services">INSURANCE</a>
-                      
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" id="nav-link" href="#/client-work">CLIENT WORK</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" id="nav-link" href="#/about-our-roofing-services">ABOUT US</a>
-                      
                     </li>
                     <button type="button" class="btn" id="call-button">
                       

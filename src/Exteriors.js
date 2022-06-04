@@ -27,17 +27,10 @@ const Exteriors = () => (
               <p class="card-text">We can design a no-maintenance yard with green grass all year round for your convenience. Our turf is realistic and durable that it won't fade in the Colorado sun but also soft enough to play on.</p>
             </div>
           </div>
-          <div class="card">
-            <img class="card-img-top" src="/pool.webp" alt="Card image cap"/>
-            <div class="card-body">
-              <h5 class="card-title">Pools and Decks</h5>
-              <p class="card-text">We also specialize in pools! We can add any size pool to your backyard or give an existing pool deck a face lift. We are here to create a custom look that fits your style and leaves you happy.</p>
-            </div>
-          </div>
         </div>
         <hr id="ext-hr"></hr>
         <div id="c-g" class="card-group">
-        <div class="card">
+          <div class="card">
             <img class="card-img-top" src="/deck.webp" alt="Card image cap"/>
             <div class="card-body">
               <h5 class="card-title">Custom Decks</h5>
@@ -52,19 +45,24 @@ const Exteriors = () => (
             </div>
           </div>
         </div>
-    </div>
-    <div class="r-wrap">
-        <div class="roof-banner">
-            <h2 class="roof-header">Roofing</h2>
-        </div>
-        <div class="roof-wrapper">
-            <img class="roof-img" src="/roofing.jpg" />
-            <div class="roof-div">
-                <h3 class="ext-rem-head roof-head">Commercial and Residential Roofing</h3>
-                <p class="roof-p">We offer commercial and residential roofing services. To maximize our flexibility we have many different materials for you to choose from when re-roofing your home. Materials include Shingles, Shake, Tile, Metal, Slate, Flat/Low Slope. Call today to get your project started!</p>
+        <div id="c-g" class="card-group">
+        <div class="card">
+            <img class="card-img-top" src="/pool.webp" alt="Card image cap"/>
+            <div class="card-body">
+              <h5 class="card-title">Pools and Decks</h5>
+              <p class="card-text">We also specialize in pools! We can add any size pool to your backyard or give an existing pool deck a face lift. We are here to create a custom look that fits your style and leaves you happy.</p>
             </div>
+          </div>
+          <div class="card">
+            <img id="gazebo" class="card-img-top" src="/gazebo-pic.jpg" alt="Card image cap"/>
+            <div class="card-body">
+              <h5 class="card-title">Gazebos</h5>
+              <p class="card-text">We can also add a great gazebo to your home, this is somewhere you can sit rain or shine and enjoy your living space. We can build this to your liking and will work with you to make it a great addition to your home.</p>
+            </div>
+          </div>
         </div>
     </div>
+    
     
     <div class="storm-restoration-cta">
             <h2>Roof Insurance Claims</h2>
