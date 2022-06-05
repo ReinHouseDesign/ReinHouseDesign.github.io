@@ -19,7 +19,7 @@ const Home = () => {
     <div class="background-ctas">
         <div id="cta" class="container-fluid">
             <h1 class="what-we-do display-6">General Contracting</h1>
-            <h1 class="what-we-do2">Commercial, Residential, Restoration</h1>
+            <h1 class="what-we-do2">Commercial & Residential Restoration</h1>
             <h1 class="what-we-do2">Outdoor Living</h1>
             <hr class="break"></hr>
             <div class="button-wrapper">
@@ -30,19 +30,19 @@ const Home = () => {
     </div>
     <div class="services-wrapper">
         <div class="services-grid">
-            <Link to="outdoor-living-services/#roofing-img" class="tile-link"><div class="rhd-tile" id="roofing-tile">
+            <Link to="exterior-remodeling-roofing-contractor-denver-colorado/#roofing-img" class="tile-link"><div class="rhd-tile" id="roofing-tile">
                 <h2 class="tile-title">Roofing</h2>
                 <p class="tile-exp">As an Owen's Corning Platinum Certified company, we're a step above most contracting companies. We take care of our customers first, that's why so many Colorado residents choose us! We'll get it done and fast.</p>
             </div></Link>
-            <Link to="outdoor-living-services/#gutter-exp" class="tile-link"><div class="rhd-tile" id="gutter-tile">
+            <Link to="exterior-remodeling-roofing-contractor-denver-colorado/#gutter-exp" class="tile-link"><div class="rhd-tile" id="gutter-tile">
                 <h2 class="tile-title">Gutters</h2>
                 <p class="tile-exp">Replacement gutters and gutter guards protect your home against moisture and other forms of water damage such as rot, erosion and mold. We will ensure your rainwater management systems works well.</p>
             </div></Link>
-            <Link to="outdoor-living-services/#siding-img" class="tile-link"><div class="rhd-tile" id="siding-tile">
+            <Link to="exterior-remodeling-roofing-contractor-denver-colorado/#siding-img" class="tile-link"><div class="rhd-tile" id="siding-tile">
                 <h2 class="tile-title">Siding</h2>
                 <p class="tile-exp">Our professional contractors can help protect your home from rain, wind and debris with our siding expertise. Our siding also provides insulation during the cold months of the year, which will save you money on your heat as well</p>
             </div></Link>
-            <a href="#/insurance-claims-storm-restoration-denver-colorado" class="tile-link"><div class="rhd-tile" id="insurance-tile">
+            <a href="#/colorado-insurance-contractor-services" class="tile-link"><div class="rhd-tile" id="insurance-tile">
                 <h2 class="last-tile">Insurance</h2>
                 <p class="tile-exp">Whether for minor damage or major structural repairs, our professional roofers will respond quickly to restore your roof and protect your home against secondary damage following a storm. Schedule today!</p>
             </div></a>

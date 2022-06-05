@@ -96,18 +96,19 @@ const ContactUs = () => {
                     </select>
                     <select name="project-type" class="form-control">
                         <option>Project Type</option>
-                        <option value="roofing">Roofing</option>
-                        <option value="ext-remodeling">Exterior Remodeling</option>
-                        <option value="gutters">Gutters</option>
-                        <option value="siding">Siding</option>
-                        <option value="other">Other</option>
+                        <option>Roofing</option>
+                        <option>Exterior Remodeling</option>
+                        <option>Gutters</option>
+                        <option>Siding</option>
+                        <option>Windows</option>
+                        <option>Other</option>
                     </select>
                     <select class="form-control" name="start-date">
-                        <option value="default">When would you like to start?</option>
-                        <option value="asap">As soon as possible</option>
-                        <option value="6-months">Within the next 6 months</option>
-                        <option value="year">Within the next year</option>
-                        <option value="considering">Just considering my options</option>
+                        <option>When would you like to start?</option>
+                        <option>As soon as possible</option>
+                        <option>Within the next 6 months</option>
+                        <option>Within the next year</option>
+                        <option>Just considering my options</option>
                     </select>
                 </div> 
                 <div class="form-group last-form">

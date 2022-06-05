@@ -43,6 +43,16 @@ body {
     z-index: 1;
 }
 
+.content-container {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.vid-wrapper {
+    max-width: 100%;
+    overflow: hidden;
+}
+
 .first-choice{
     font-family: "Rubik", sans-serif;
     padding-top: 2rem;
